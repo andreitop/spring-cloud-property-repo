@@ -1,9 +1,9 @@
 eureka:
   instance:
     metadataMap:
-      zone: zone1
+      zone: zone3
   client:
     serviceUrl:
       defaultZone: http://localhost:8888/eureka/,http://localhost:8889/eureka/,http://localhost:8890/eureka/
 server:
-  port: ${PORT:8071}
+  port: ${PORT:8973}
