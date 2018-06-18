@@ -11,5 +11,5 @@ info:
   app:
     name: Client app zone3
   version:
-    version: "0.1"
+    lastbuild: "0.1"
     lastupdate: "2d"
