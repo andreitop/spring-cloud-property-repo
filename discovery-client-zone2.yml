@@ -7,3 +7,9 @@ eureka:
       defaultZone: http://localhost:8889/eureka/,http://localhost:8890/eureka/,http://localhost:8888/eureka/
 server:
   port: ${PORT:8072}
+info:
+  app:
+    name: Client app zone2
+  version:
+    version: "0.1"
+    lastupdate: "2d"
