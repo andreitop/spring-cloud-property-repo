@@ -9,7 +9,7 @@ server:
   port: ${PORT:8071}
 info:
   app:
-    name: Client appEX
+    name: Client appZ
   version:
     lastbuild: "2.2"
     lastupdate: "5d"
